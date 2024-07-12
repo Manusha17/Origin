@@ -1,0 +1,3 @@
+[submodule "my-app/src/app/enterprise"]
+	path = my-app/src/app/enterprise
+	url = https://github.com/Manusha17/Enterprise
